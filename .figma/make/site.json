@@ -1,0 +1,11 @@
+{
+  "title": "TechNexa — Systems & Engineering Bangladesh",
+  "description": "Shop authentic technology and PC components in Bangladesh, build compatible custom PCs, compare products, and manage orders, warranties, and service requests.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
